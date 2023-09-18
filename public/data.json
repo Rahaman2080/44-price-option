@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "name": "Basice Membership",
+    "features": [
+      "Access to gym facilities",
+      "Standard workout equipment",
+      "Limited gym hours",
+      "Access to locker room"
+    ],
+    "price": 50
+  },
+  {
+    "id": 2,
+    "name": "Premium Membership",
+    "features": [
+      "Access to gym facilities",
+      "Personal training sessions",
+      "Access to sauna and spa",
+      "Access to locker room",
+      "Towel service"
+    ],
+    "price": 90
+  },
+  {
+    "id": 3,
+    "name": "Plutinum Membership",
+    "features": [
+      "Access to gym facilities",
+      "Full range of workout equipment",
+      "24/7 gym access",
+      "Personal training sessions",
+      "Access to sauna and spa",
+      "Access to locker room",
+      "Towel service"
+    ],
+    "price": 150
+  }
+]
